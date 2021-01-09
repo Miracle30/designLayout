@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Templete</string>
+    <string name="already">Đã có tài khoản</string>
+    <string name="email_username">Email/Tài khoản</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot">Quên mật khẩu</string>
+    <string name="or">Hoặc</string>
+    <string name="signUp">Lần đầu? Tạo acc ngay</string>
+</resources>

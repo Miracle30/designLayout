@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette Jadeite    -->
+    <color name="XanhOffGreen">#e3f7ee</color>
+    <color name="XanhCruise">#c9efdc</color>
+    <color name="XanhBayLeaf">#8ab399</color>
+
+    <!-- Palette Pastel 1    -->
+    <color name="XanhAquaIsland">#ADDDCE</color>
+    <color name="XanhAcapulco">#70AE98</color>
+    <color name="VangAnzac">#E6B655</color>
+    <color name="CamSandyBrown">#F0A35E</color>
+    <color name="TimPuce">#CA7E8D</color>
+
+    <!-- Palette Pastel 2    -->
+    <color name="NauDustStorm">#DFC7C1</color>
+    <color name="XanhSpindle">#B2D9EA</color>
+    <color name="XanhGlacier">#84B4C8</color>
+    <color name="XanhPatina">#619196</color>
+    <color name="HongAlmond">#F4DCD6</color>
+
+    <!-- Palette Pastel 3    -->
+    <color name="CamCorvette">#F8CA9D</color>
+    <color name="XanhHalfBaked">#8EC9BB</color>
+    <color name="XanhPaleLeaf">#C5D7C0</color>
+    <color name="DoGeraldine">#FB8E7E</color>
+
+    <!--  <color name="">#</color>  -->
+</resources>

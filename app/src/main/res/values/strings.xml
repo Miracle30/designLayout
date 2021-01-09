@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Templete</string>
+    <string name="already">Already have an account</string>
+    <string name="email_username">Email/Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot your password</string>
+    <string name="or">Or</string>
+    <string name="signUp">New user? Register now</string>
+</resources>
